@@ -1,6 +1,6 @@
 {
     "name": "weidner/goutte",
-    "version": "2.3.2",
+    "version": "2.3.3",
     "description": "Laravel Facade for Goutte, a simple PHP Web Scraper",
     "license": "MIT",
     "keywords": [
